@@ -1,1 +1,1 @@
-Aplikacja na platformę Android służąca dekodowaniu kodu QR. Algorytm rozpoznawania kodu QR w obrazie został zaprojektowany oraz zaimplementowany samodzielnie.
+Application for QR code deconding. Algorithm for QR code recognition was invented and implemented independently.
